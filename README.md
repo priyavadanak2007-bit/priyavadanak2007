@@ -134,24 +134,6 @@ development workflows.
 
 <br/>
 
-### 📈&nbsp; Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyavadanak2007&bg_color=161B22&color=58A6FF&line=7C3AED&point=F8FAFC&area=true&hide_border=true&border_radius=14" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<table width="70%">
-<tr>
-<td align="center">
-
-<sub>&nbsp;</sub>
-
 **"The best way to predict the future is to invent it."**
 
 <sub>&nbsp;</sub>
